@@ -13,6 +13,8 @@ Bob the robot is able to drive around and also work wth remote control. It was m
 
 # Second Milestone 
 
+
+My second milestone was about how I got my car working with a remote control and able to move in all directions
 # First Milestone
   [![First milesone](https://res.cloudinary.com/marcomontalbano/image/upload/v1700176957/video_to_markdown/images/youtube--g0w78VwypAE-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=g0w78VwypAE "First milesone")
 
