@@ -9,6 +9,8 @@ Bob the robot is able to drive around and also work wth remote control. It was m
 
 # Final Milestone
 
+[![Matt's final milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1701816321/video_to_markdown/images/youtube--UbftKko4MUk-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=UbftKko4MUk "Matt's final milestone")
+
 During my final milestone I talk about how I made my car work with music. This was done by using an active buzzer and also wring the buzzer to ground to give power and to pin 1. With my car playing music now it also can drive with the remote seen in the 2nd milestone. The code used can be found [here](https://github.com/Matt27631/Engineering-Up-Portfolio-Matthew/blob/gh-pages/Finished_code.ino.ino).
 
 # Second Milestone 
