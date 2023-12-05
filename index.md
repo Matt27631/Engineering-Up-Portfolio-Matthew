@@ -11,12 +11,12 @@ Bob the robot is able to drive around and also work wth remote control. It was m
 
 [![Matt's final milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1701816321/video_to_markdown/images/youtube--UbftKko4MUk-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=UbftKko4MUk "Matt's final milestone")
 
-During my final milestone I talk about how I made my car work with music. This was done by using an active buzzer and also wring the buzzer to ground to give power and to pin 1. With my car playing music now it also can drive with the remote seen in the 2nd milestone. The code used can be found [here](https://github.com/Matt27631/Engineering-Up-Portfolio-Matthew/blob/gh-pages/Finished_code.ino.ino).
+During my final milestone, I discussed how I made my car work with music. This was accomplished by using an active buzzer and wiring the buzzer to the ground to provide power, and to pin 1. Now, my car can not only play music but also drive with the remote, as seen in the 2nd milestone. The code used can be found [here](https://github.com/Matt27631/Engineering-Up-Portfolio-Matthew/blob/gh-pages/Finished_code.ino.ino).
 
 # Second Milestone 
 [![Matt's milestone #2](https://res.cloudinary.com/marcomontalbano/image/upload/v1701810204/video_to_markdown/images/youtube--za6KkP-nZbI-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=za6KkP-nZbI "Matt's milestone #2")
 
-My second milestone was about how I got my car working with a remote control and able to move in all directions. This was done with arduino code and it was able to function fastly with IR sensor recieving signals.
+In my second milestone, I successfully programmed my car to operate with a remote control, enabling it to move in all directions. This was achieved through the use of Arduino code. The car's swift response to commands was made possible by an Infrared (IR) sensor, which efficiently received signals from the remote control. This milestone not only demonstrated the car's mobility but also showcased the effective integration of hardware and software in a real-time control system.
 
 # First Milestone
   [![First milesone](https://res.cloudinary.com/marcomontalbano/image/upload/v1700176957/video_to_markdown/images/youtube--g0w78VwypAE-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=g0w78VwypAE "First milesone")
