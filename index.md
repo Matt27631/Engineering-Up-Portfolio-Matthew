@@ -17,4 +17,4 @@ My second milestone was about how I got my car working with a remote control and
 # First Milestone
   [![First milesone](https://res.cloudinary.com/marcomontalbano/image/upload/v1700176957/video_to_markdown/images/youtube--g0w78VwypAE-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=g0w78VwypAE "First milesone")
 
-My first milestone was being able to first build the Adruino car, then, be able to code using Arduino IDE allowing the car to move. I am able to have the car moving forward.
+My first milestone was being able to first build the Adruino car, then, be able to code using Arduino IDE allowing the car to move. I am able to have the car moving forward, backwards, left and right.
