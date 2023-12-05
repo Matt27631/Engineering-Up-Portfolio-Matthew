@@ -5,7 +5,7 @@ Bob the robot is able to drive around and also work wth remote control. It was m
 |:--:|:--:|:--:|:--:|
 | Matthew | East High School | Video game designer | Freshman
 
-![Relevant Name]
+![Relevant Name](https://live.staticflickr.com/65535/53378531835_99f9716e3d.jpg)
 
 # Final Milestone
 
