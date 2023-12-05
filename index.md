@@ -1,5 +1,5 @@
 # Bob the robot project
-Bob the robot is able to drive around and also work wth remote control. It was made in engineering up and is able to play music
+Bob the robot is able to drive around and also work wth remote control. It was made in engineering up and is able to play music. When I get older I plan to work for Nintendo as a game designer so enginerring up helped me a lot. During my time here I did a lot of coding to allow my caar to function, like causing my car to play music or to move in any cardinal direcion. My plan was to go in here and make a car that simply could move and thought it would be simple. Now I learned a whole lot and got through many challenges such as code not outpting or my music not playing. But by putting in the work I got the car to move and also play music.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
