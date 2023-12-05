@@ -1,8 +1,9 @@
 # Bob the robot project
-Bob the robot is able to drive around and also work wth remote control. It was made in engineering up and is able to play music.
+Bob the robot is able to drive around and also work wth remote control. It was made in engineering up and is able to play music
+
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Matthew| East High School | Video game designer | Freshman
+| Matthew | East High School | Video game designer | Freshman
 
 ![Relevant Name]
 
